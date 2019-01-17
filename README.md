@@ -1,6 +1,7 @@
 # Login Credentials
 
 - User: ``` administrator ```
+- Host Name: ``` CPR-A200-0501 ```
 - Password: ``` clearpath ```
 
 # Husky Router Settings
@@ -20,3 +21,9 @@
 
 - The Lead acid battery in our Husky will charge up to around 26.4V, whereas the Lithium Ion battery upgrade is capable of going up to around 29.4V. This is why the LED indicator will never reach full. To know the battery voltage, you can either subscribe to the ```/diagnostics``` ROS topic, or measure the battery's voltage directly (the 24 V outlet is directly connected to the battery, so you can measure it from there without taking the battery out).
 
+# Host PCs and IPs Table
+
+| Host          | IP           | Description  |
+| ------------- |:-------------:| -----:|
+| CPR-A200-0501     | 192.168.0.10 | The Husky robot |
+| iri01    | 192.168.0.200 | Hassan Ubuntu Desktop |
