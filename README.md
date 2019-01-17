@@ -1,6 +1,6 @@
 # Husky_stuff
 
-#Login Credentials
+# Login Credentials
 
 - User: ``` administrator ```
 - Password: ``` clearpath ```
