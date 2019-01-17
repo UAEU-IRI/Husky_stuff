@@ -24,6 +24,6 @@
 # Host PCs and IPs Table
 
 | Host          | IP           | Description  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| -------------:|
 | CPR-A200-0501     | 192.168.0.10 | The Husky robot |
 | iri01    | 192.168.0.200 | Hassan Ubuntu Desktop |
