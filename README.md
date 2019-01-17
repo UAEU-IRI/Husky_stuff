@@ -1,5 +1,3 @@
-# Husky_stuff
-
 # Login Credentials
 
 - User: ``` administrator ```
