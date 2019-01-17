@@ -2,6 +2,15 @@
 
 - User: ``` administrator ```
 - Password: ``` clearpath ```
+
+# Husky Router Settings
+
+- SSID: ``` UAEU_Husky ```
+- Password: ``` clearpath ```
+- DHCP: Disabled (static IPs).
+- GateWay: 192.168.0.1
+- Robot IP: 192.168.0.10
+
 # Battery Saftey
 - The husky lead acid battery is considered to have 7% left when its at 22volts.
 
