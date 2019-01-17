@@ -1,5 +1,6 @@
 # Login Credentials
 
+
 - User: ``` administrator ```
 - Host Name: ``` CPR-A200-0501 ```
 - Password: ``` clearpath ```
