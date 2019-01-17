@@ -4,7 +4,7 @@ iface lo inet loopback
 # Bridge together physical ports on machine, assign standard Clearpath Robot IP.
 iface br0 inet static
   bridge_ports regex (eth.*)|(en.*)
-  address 192.168.1.11
+  address 192.168.0.10
   netmask 255.255.255.0
 
 # Also seek out DHCP IP on those ports, for the sake of easily getting online,
