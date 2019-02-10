@@ -27,4 +27,8 @@
 | Host          | IP           | Description  |
 | ------------- |:-------------:| -------------:|
 | CPR-A200-0501     | 192.168.0.10 | The Husky robot |
-| iri01    | 192.168.0.200 | Hassan Ubuntu Desktop |
+| iri01    | 192.168.0.201 | Hassan Ubuntu Desktop |
+| iri02    | 192.168.0.202 | AlienWare Ubuntu laptop |
+| imacUbuntu    | 192.168.0.223 | Mac all-in-PC ubuntu (hassan Mac) |
+| hassandell    | 192.168.0.200 | Hassan dell personal laptop |
+| hassan    | 192.168.0.140 | Hassan lenovo personal laptop |
